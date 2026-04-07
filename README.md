@@ -684,34 +684,9 @@ train_idx, val_idx = next(splitter.split(X, y))
 - [PyTorch Forums](https://discuss.pytorch.org/)
 - [MLflow Slack](https://mlflow.org/community)
 
----
 
-## 📝 License & Citation
-
-This project is provided as-is for educational and research purposes.
-
-### Citation
-
-```bibtex
-@software{nas_system_2024,
-  title={Neural Architecture Search System with Streamlit Interface},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/nas-system}
-}
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Areas for improvement:
-
-1. **New Search Strategies**: Implement evolutionary algorithms, reinforcement learning
-2. **Additional Datasets**: Support for more datasets beyond CIFAR-10
-3. **Model Export**: ONNX export, TensorFlow conversion
-4. **Visualization**: More interactive plots, architecture diagrams
-5. **Optimization**: Distributed training, mixed precision
 
 
 
@@ -728,10 +703,3 @@ The Neural Architecture Search system provides a complete, production-ready solu
 - Monitor and analyze results continuously
 - Export and document best architectures
 - Iterate and refine based on insights
-
-Happy searching! 🚀
-
----
-
-*Last Updated: 2024*
-*Version: 1.0.0*
