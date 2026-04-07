@@ -665,27 +665,7 @@ train_idx, val_idx = next(splitter.split(X, y))
 
 ---
 
-## 🔗 Additional Resources
 
-### Documentation
-- [PyTorch Documentation](https://pytorch.org/docs/)
-- [Optuna Documentation](https://optuna.readthedocs.io/)
-- [MLflow Documentation](https://mlflow.org/docs/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-
-### Research Papers
-- Neural Architecture Search: A Survey (2019)
-- Efficient Neural Architecture Search (ENAS)
-- DARTS: Differentiable Architecture Search
-- Auto-Keras: Efficient Neural Architecture Search
-
-### Community
-- [Optuna GitHub](https://github.com/optuna/optuna)
-- [PyTorch Forums](https://discuss.pytorch.org/)
-- [MLflow Slack](https://mlflow.org/community)
-
-
-```
 
 
 
