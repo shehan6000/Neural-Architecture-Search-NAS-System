@@ -1,22 +1,6 @@
 # Neural Architecture Search (NAS) System
 
----
 
-## 📚 Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Installation & Setup](#installation--setup)
-4. [Quick Start Guide](#quick-start-guide)
-5. [System Architecture](#system-architecture)
-6. [Configuration Options](#configuration-options)
-7. [Understanding the Results](#understanding-the-results)
-8. [Advanced Usage](#advanced-usage)
-9. [Troubleshooting](#troubleshooting)
-10. [API Reference](#api-reference)
-11. [Best Practices](#best-practices)
-
----
 
 ## 🎯 Overview
 
